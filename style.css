@@ -12,9 +12,11 @@ html,body{
 }
 
 div{
+    align-items: center;
     width: 30%;
     height: 30%;
     text-align: center;
+    display: flex;
 
 }
 
