@@ -32,3 +32,10 @@ div{
     border-style: dotted;
     border-radius: 50px;
 }
+
+#box3{
+    background-color:blue;/*To demonstrate the border radius to make it oval*/
+    border-style: dotted;
+    border-radius: 50%;
+}
+
