@@ -12,6 +12,7 @@ html,body{
 }
 
 div{
+    justify-content:center ;/*It justify the content to center*/
    align-items: center;/*To align items in div elements to centre*/
     width: 30%;
     height: 30%;
