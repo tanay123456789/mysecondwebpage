@@ -24,6 +24,7 @@ div{
 #box1{
     background-color: aqua;
     border-style: dashed;
+    border-width:10px;
 }
 
 #box2{
