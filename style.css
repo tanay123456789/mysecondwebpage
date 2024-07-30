@@ -8,12 +8,12 @@ html,body{
     height:100%; /*always have to write*/
     display: flex;/*align elements side by side*/
     justify-content: center;
-    align-items: center;
+    align-items : center;
 }
 
 div{
     justify-content:center ;/*It justify the content to center*/
-   align-items: center;/*To align items in div elements to centre*/
+    align-items: center;/*To align items in div elements to centre*/
     width: 30%;
     height: 30%;
     text-align: center;
@@ -23,8 +23,10 @@ div{
 
 #box1{
     background-color: aqua;
+    border-style: dashed;
 }
 
 #box2{
     background-color: aquamarine;
+    border-style: dotted;
 }
