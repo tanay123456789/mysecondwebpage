@@ -12,7 +12,7 @@ html,body{
 }
 
 div{
-    align-items: center;
+   align-items: center;/*To align items in div elements to centre*/
     width: 30%;
     height: 30%;
     text-align: center;
